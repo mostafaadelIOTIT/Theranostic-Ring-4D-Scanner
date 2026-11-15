@@ -12,7 +12,7 @@ The **Dynamic Theranostic Ring Scanner** is an automated cyber-physical medical 
 
 ## 🚀 Live Interactive Simulations (Click Below to Test in Browser)
 * 🔗 **[Launch 4D Clinical PACS & Security Dashboard (Streamlit Cloud)](https://theranostic-ring-4d-scanner-evybtjw9hkrybfiq3av8lt.streamlit.app/)**
-* 🔗 **[Run Real-Time ESP32 & Stepper Gantry Simulation (Wokwi)]((https://wokwi.com/projects/480753689106439169))**
+* 🔗 **[Run Real-Time ESP32 & Stepper Gantry Simulation (Wokwi)](https://wokwi.com/projects/480753689106439169)**
 
 
 ## 🏗️ System Architecture & Cybersecurity
