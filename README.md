@@ -1,4 +1,4 @@
-```markdown
+
 # 🦾 Dynamic Theranostic Ring Scanner – 4D Diabetic Limb Diagnostics & Phototherapy
 
 
@@ -19,4 +19,4 @@ The **Dynamic Theranostic Ring Scanner** is an automated cyber-physical medical 
 1. **Embedded Edge Control (`firmware_esp32.ino`):** C++ firmware running on ESP32 driving an A4988 stepper gantry across 360° limb sectors, reading sub-dermal thermal gradients and NIR fungal indices, and automatically locking onto pathology coordinates to trigger LLLT (660nm/850nm) and UV-C (275nm) emitters.
 2. **Zero-Trust Medical Cryptography:** Utilizes hardware-accelerated `mbedtls` **SHA-256 hashing** at the microcontroller edge to sign every diagnostic packet, ensuring GDPR/HIPAA compliance and preventing Man-in-the-Middle (MitM) tampering.
 3. **Clinical PACS & Odoo ERP Integration (`app.py`):** Python/Streamlit interface visualizing 360° limb sector telemetry and verifying cryptographic signatures for hospital ERP archiving.
-```
+
